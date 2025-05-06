@@ -3,9 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Xiaowen
+last_name: Ma
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -193,6 +192,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/
+  - _pages/blog.md
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -265,8 +268,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Xiaowen Ma]
-  first_name: [Xiaowen Ma]
+  last_name: [Ma]
+  first_name: [Xiaowen]
 
   style: apa
   locale: en
