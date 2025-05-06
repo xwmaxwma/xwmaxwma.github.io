@@ -17,10 +17,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Xiaowen Ma received the B.S. and master degrees in remote sensing image processing and machine learning from Zhejiang University, Hangzhou, China, in 2021 and 2024, respectively. He is now an AI Researcher with Huawei’s Noah’s Ark Lab, Shanghai, China. 
