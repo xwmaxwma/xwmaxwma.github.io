@@ -85,16 +85,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-scsm-is-accepted-by-isprs",
+            },},{id: "news-scsm-is-accepted-by-isprs",
           title: 'SCSM is accepted by ISPRS.',
+          description: "",
+          section: "News",},{id: "news-logcan-is-accepted-by-tgrs",
+          title: 'LOGCAN++ is accepted by TGRS.',
+          description: "",
+          section: "News",},{id: "news-timepro-is-accepted-by-icml-25",
+          title: 'TimePro is accepted by ICML’25.',
           description: "",
           section: "News",},{
         id: 'social-email',
