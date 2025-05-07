@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -19,11 +19,9 @@ announcements:
 
 ---
 
-Xiaowen Ma received the B.S. and master degrees in remote sensing image processing and machine learning from Zhejiang University, Hangzhou, China, in 2021 and 2024, respectively. He is now an AI Researcher with Huawei’s Noah’s Ark Lab, Shanghai, China. 
+I receive the B.S. and master degrees in remote sensing image processing and machine learning from Zhejiang University, Hangzhou, China, in 2021 and 2024, respectively. I am now an AI Researcher with Huawei’s Noah’s Ark Lab, Shanghai, China. 
 
-He has published serveral research papers and serve as a reviewer including NeurIPS, ICML, GRSL JSTARS, TGRS, ISPRS, etc. His research interests include remote sensing, computer vision, and multimodality. 
+I have published serveral research papers and serve as a reviewer including NeurIPS, ICML, ICLR, TGRS, ISPRS, etc. My research interests include remote sensing, computer vision, and multimodality. 
 
+In addition, I am recruiting **research interns** to explore AI technology in Huawei Noah's Ark Lab. Feel free to contact me if you are interested!
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
