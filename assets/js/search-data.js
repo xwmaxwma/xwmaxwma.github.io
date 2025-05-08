@@ -78,7 +78,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-scsm-is-accepted-by-isprs",
+            },},{id: "news-ssa-seg-is-accepted-by-neurips-24",
+          title: 'SSA-Seg is accepted by NeurIPS’24.',
+          description: "",
+          section: "News",},{id: "news-scsm-is-accepted-by-isprs",
           title: 'SCSM is accepted by ISPRS.',
           description: "",
           section: "News",},{id: "news-logcan-is-accepted-by-tgrs",
