@@ -7,6 +7,14 @@
     "scholar": "https://scholar.google.com.hk/citations?user=UXj8Q6kAAAAJ&hl=zh-CN",
     "url": "https://xwmaxwma.github.io",
   },
+  "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
   "work": [
     {
       "name": "Huawei Noah's Ark Lab, Shanghai",
