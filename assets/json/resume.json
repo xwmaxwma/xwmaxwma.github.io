@@ -4,7 +4,7 @@
     "label": "AI Engineer",
     "image": "",
     "email": "xwma@zju.edu.cn; xwmaxwma@163.com",
-    "Scholar": "https://scholar.google.com.hk/citations?user=UXj8Q6kAAAAJ&hl=zh-CN",
+    "scholar": "https://scholar.google.com.hk/citations?user=UXj8Q6kAAAAJ&hl=zh-CN",
     "url": "https://xwmaxwma.github.io",
   },
   "work": [
@@ -21,17 +21,16 @@
       "institution": "Zhejiang University, Hangzhou, China",
       "area": "Software Engineering",
       "studyType": "M.S.",
-      "startDate": "2021-09",
-      "endDate": "2024-03",
+      "startDate": "2021-09-01",
+      "endDate": "2024-03-01",
+      "courses": ["National Scholarship, Provincial Outstanding Graduate, Outstanding Master Student"]
     }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+     {
+      "institution": "Zhejiang University, Hangzhou, China",
+      "area": "Marine engineering and technology",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-01",
     }
   ],
   "certificates": [
