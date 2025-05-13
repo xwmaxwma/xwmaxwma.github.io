@@ -44,11 +44,13 @@
   type: time_table
   contents:
     - title: <a href="https://ieeexplore.ieee.org/document/10884928">LOGCAN++: Adaptive Local-Global Class-Aware Network For Semantic Segmentation of Remote Sensing Images</a>
-      year: TGRS'25
+      year: 2025
+      description: TGRS'25, IF=8.2
     - title: <a href="https://www.sciencedirect.com/science/article/pii/S0924271625000255?via%3Dihub">A novel scene coupling semantic mask network for remote sensing image segmentation</a>
-      year: ISPRS'25
+      year: 2025
+      description: ISPRS'25, IF=12.3
     - title: <a href="https://arxiv.org/abs/2405.06525">SSA-Seg: Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation</a>
-      year: NeurIPS'24
+      year: 2024
 
 - title: Hobby
   type: list
