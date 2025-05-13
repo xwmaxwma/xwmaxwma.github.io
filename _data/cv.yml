@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Xiaowen Ma
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1999.10
     - name: Languages
-      value: English, German
+      value: Chinese, English
+    - name: Email
+      value: xwma@zju.edu.cn xwmaxwma@163.com
+    - name: Url
+      value: https://xwmaxwma.github.io
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S.
+      institution: Zhejiang University, Hangzhou, China
+      year: 2021.9-2024.3
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
+        - National Scholarship
+        - Provincial Outstanding Graduate
+        - Outstanding Master Student
+    - title: B.S
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2017.9-2021.6
 
 - title: Experience
   type: time_table
