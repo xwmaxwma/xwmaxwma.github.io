@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications of the **first/corresponding** author.
+description: Publications of the first/corresponding author.
 nav: true
 nav_order: 2
 ---
