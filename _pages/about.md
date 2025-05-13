@@ -23,5 +23,5 @@ I receive the B.S. and master degrees in remote sensing image processing and mac
 
 I have published serveral research papers and serve as a reviewer including NeurIPS, ICML, ICLR, TGRS, ISPRS, etc. My research interests include remote sensing, computer vision, and multimodality. 
 
-In addition, I am recruiting **research interns** to explore AI technology in Huawei Noah's Ark Lab. Feel free to contact me if you are interested!
+In addition, I am recruiting **research interns** in Huawei Noah's Ark Lab to explore AI technology including VLM, Large Model Reasoning Acceleration, etc. Feel free to contact me if you are interested!
 
