@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-LOGCAN++ is accepted by TGRS.
+[LOGCAN++](https://ieeexplore.ieee.org/abstract/document/10884928/) is accepted by TGRS'25.
