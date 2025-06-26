@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-SCSM is accepted by ISPRS.
+[SCSM](https://www.sciencedirect.com/science/article/pii/S0924271625000255) is accepted by ISPRS 2025.
