@@ -71,6 +71,9 @@ ninja.data = [{
           section: "News",},{id: "news-timepro-is-accepted-by-icml-25",
           title: 'TimePro is accepted by ICML’25.',
           description: "",
+          section: "News",},{id: "news-tinyvim-is-accepted-by-iccv-25",
+          title: 'TinyViM is accepted by ICCV’25.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
