@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TimePro is accepted by ICML'25.
+[TimePro](https://arxiv.org/abs/2505.20774) is accepted by ICML'25.
