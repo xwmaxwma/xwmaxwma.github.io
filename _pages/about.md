@@ -21,7 +21,7 @@ announcements:
 
 I receive the B.S. and master degrees in remote sensing image processing and machine learning from Zhejiang University, Hangzhou, China, in 2021 and 2024, respectively. I am now an AI Researcher with Huawei’s Noah’s Ark Lab, Shanghai, China. 
 
-I have published serveral research papers and serve as a reviewer including NeurIPS, ICML, ICLR, TGRS, ISPRS, etc. My research interests include remote sensing, computer vision, and multimodality. 
+I have published serveral research papers and serve as a reviewer including NeurIPS, ICML, ICLR, ICCV, ECCV, CVPR, TGRS, ISPRS, PR, KBS, etc. My research interests include remote sensing, time series analysis, computer vision, and multimodality. 
 
-In addition, I am recruiting **research interns** in Huawei Noah's Ark Lab to explore AI technology including VLM, Large Model Reasoning Acceleration, etc. Feel free to contact me if you are interested!
+Recently, I am recruiting **research interns** in Huawei Noah's Ark Lab to explore AI technology including VLM, Large Model Reasoning Acceleration, etc. Feel free to contact me if you are interested!
 
