@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Exmert Merging](https://arxiv.org/abs/2509.25712) is accepted by ICLR'26.
+[Expert Merging](https://arxiv.org/abs/2509.25712) is accepted by ICLR'26.
