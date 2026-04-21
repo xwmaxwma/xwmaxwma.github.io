@@ -83,6 +83,9 @@ ninja.data = [{
           section: "News",},{id: "news-vlmpruner-is-accepted-by-cvpr-26",
           title: 'VLMPruner is accepted by CVPR’26.',
           description: "",
+          section: "News",},{id: "news-cdmask-is-accepted-by-tgrs-26",
+          title: 'CDMask is accepted by TGRS’26.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
